@@ -36,6 +36,4 @@ Telegram-Bot-Reminder-on-Python-2.0
 
 - [Telegram Bot](https://tlgrm.ru/docs/bots)
 
-## First version
-
-[Telegram-Bot-Reminder-on-Python](https://github.com/IRONKAGE/Telegram-Bot-Reminder-on-Python]
+## First version [Telegram-Bot-Reminder-on-Python](https://github.com/IRONKAGE/Telegram-Bot-Reminder-on-Python)
