@@ -4,7 +4,7 @@ Telegram-Bot-Reminder-on-Python-2.0
 
 ![GitHub](https://img.shields.io/github/license/IRONKAGE/Telegram-Bot-Reminder-2.0?style=plastic) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/IRONKAGE/Telegram-Bot-Reminder-2.0?style=plastic) ![Languges](https://img.shields.io/github/languages/count/IRONKAGE/Telegram-Bot-Reminder-2.0?style=plastic)
 
-![BotInAction](https://github.com/IRONKAGE/Telegram-Bot-Reminder-2.0/blob/master/Public/ScreenShot/BotInAction.jpg)
+![BotInAction](https://github.com/IRONKAGE/Telegram-Bot-Reminder-2.0/blob/master/BotInAction.jpg)
 
 ## Instruction :us:
 
@@ -36,4 +36,6 @@ Telegram-Bot-Reminder-on-Python-2.0
 
 - [Telegram Bot](https://tlgrm.ru/docs/bots)
 
-## First version [Telegram-Bot-Reminder-on-Python](https://github.com/IRONKAGE/Telegram-Bot-Reminder-on-Python]
+## First version
+
+[Telegram-Bot-Reminder-on-Python](https://github.com/IRONKAGE/Telegram-Bot-Reminder-on-Python]
